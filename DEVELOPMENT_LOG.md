@@ -13,13 +13,13 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [April 1, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
+### Entry 1 - [2026-03-26]
+**What I did**: Initial Project Setup and GitHub Forking. 
 
 **Details**: 
-- Created GitHub account with university email
+-  Created a GitHub account using the university email (@std.psau.edu.sa)
 - Forked the starter repository
-- Changed student ID on line 92 to my actual ID (441234567)
+- Changed student ID on line 92 to my actual ID (445052529)
 - Compiled and ran the program successfully
 
 **Challenges**: Had to install JDK first because javac wasn't recognized
