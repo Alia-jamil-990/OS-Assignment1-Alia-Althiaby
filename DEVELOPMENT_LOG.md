@@ -32,29 +32,30 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [Date: 2026-03-26]
+**What I did**: Initial Project Setup and GitHub Forking. 
 
-**Details**: 
+**Details**: Created a GitHub account using the university email (@std.psau.edu.sa), forked the starter repository, and renamed it to OS-Assignment1-YourName. I also updated the studentID variable in SchedulerSimulation.java to match my actual ID. 
 
-**Challenges**: 
+**Challenges**: Understanding the structure of the starter code and how the Process and SchedulerSimulation classes interact. 
 
-**Solution**: 
+**Solution**: Read the README.md thoroughly and traced the main method to understand the Round-Robin logic. 
 
-**Time spent**: 
+
+
+**Time spent**: 6 hour
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [Date: 2026-03-26]
+**What I did**: mplementing Feature 1 - Process Priority. 
 
-**Details**: 
+**Details**: Modified the Process class to include a private integer field for priority (1-5). Updated the constructor to initialize this field and modified addProcessToQueue in SchedulerSimulation.java to print the priority when a process enters the ready queue. 
 
-**Challenges**: 
+**Challenges**: Modified the Process class to include a private integer field for priority (1-5). 
+**Solution**: Used random.nextInt(5) + 1 during the process creation loop in the mainmethod.
 
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 3 hour
 
 ---
 
