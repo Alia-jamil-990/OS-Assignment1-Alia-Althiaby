@@ -59,42 +59,49 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March, 2026, 6:00 PM]
+**What I did**: Implementing Core Functionality
 
-**Details**: 
+**Details**: Started coding the main required feature
+Modified existing methods to match assignment requirements
+Tested functionality using sample inputs
 
-**Challenges**: 
+**Challenges**: Program produced incorrect output due to logic error
 
-**Solution**: 
+**Solution**: Used debugging and print statements to trace the issue and fixed the logic
 
-**Time spent**: 
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March, 2026, 8:00 PM]
+**What I did**: Debugging and Error Handling
 
-**Details**: 
+**Details**: Fixed runtime errors and exceptions
+Added input validation
+Improved code structure and readability
 
-**Challenges**: 
+**Challenges**: Encountered null pointer exception
 
-**Solution**: 
+**Solution**: Added null checks and ensured proper object initialization
 
-**Time spent**: 
+**Time spent**: 2 hours
+
+---
+
+### Entry 5 - [March, 2026, 9:30 PM]
+**What I did**: Final Testing and Submission Preparation
+
+**Details**: Tested the program with multiple test cases
+Cleaned up code and added comments
+Committed final changes to GitHub
+Verified project runs without errors
+
+**Challenges**: Minor formatting issues in output
+
+**Solution**: Adjusted print statements and formatting
+
+**Time spent**: 50 minute
 
 ---
 
